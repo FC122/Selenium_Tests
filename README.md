@@ -5,6 +5,7 @@ Five test cases automated in Selenium.
 
 Test cases are writen for https://www.saucedemo.com login page.
 
+
 Main parts of the project:
 
 configs/Configuration.properties - file where all strings used in the project are stored (driver path, error messages...)
@@ -16,9 +17,12 @@ src/test/java/config/PageLocators - folder that contains classes with all web el
 src/test/java/config/LoginPageActions - folder that contains classes with commonly used functions
 
 src/test/java/config/tests - folder that contains all tests
+
   
 High level overview: 
+
   ![image](https://user-images.githubusercontent.com/72666124/216820523-f50f00b2-764a-40b2-8c30-e1528ae1f1c4.png)
+
 
 Usage with gui:
 
@@ -29,6 +33,7 @@ Open the project with intelij
 Go Build->Build Project
 
 Go Run -> Run...
+ 
  
  
 Tools:
