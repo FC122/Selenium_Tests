@@ -16,12 +16,12 @@ Main parts of the project:
   ![image](https://user-images.githubusercontent.com/72666124/216820523-f50f00b2-764a-40b2-8c30-e1528ae1f1c4.png)
 
 Usage with gui:
-  Clone the repo \n
-  Open the project with intelij \n
-  Go Build->Build Project \n
+  Clone the repo,
+  Open the project with intelij,
+  Go Build->Build Project,
   Go Run -> Run...
   
  Tools:
-    Maven \n
-    Şelenium \n 
+    Maven,
+    Şelenium, 
     Intelij 
